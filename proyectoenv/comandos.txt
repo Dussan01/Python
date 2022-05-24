@@ -1,3 +1,6 @@
 .\venv\Scripts\activate
  pip freeze > inicializador.txt
  alias avenv=.\venv\Scripts\activate
+
+ //Create a alias in linux
+ alias avenv = 'source ./venv/bin/activate
